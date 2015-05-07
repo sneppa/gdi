@@ -1,0 +1,220 @@
+== Folien, Übungsblätter und anderes Material ==
+
+16.1.15, 13:40 Uhr: Übung
+* ... mit der Möglichkeit, Fragen zur Klausur und zum Stoff zu stellen
+
+16.1.15: keine Vorlesung (''nach der Abstimmung heute'')
+
+15.1.15: Vorlesung
+* Mehrfach-Vererbung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/56%20Mehrfach-Vererbung.pdf Folien])
+* Rückschau: OO ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/55%20Rueckblick.pdf Folien])
+* Fragen zum gesamten Vorlesungsstoff (bereiten Sie sich vor!)
+* Fragen zur Klausur
+
+9.1.15:
+* Es findet eine ADS-Vorstellung anstelle der GDI-Vorlesung statt.
+* Die Übung findet wie gewohnt (mit Testat) statt.
+
+8.1.15: Vorlesung
+* static vs. dynamic ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/54%20statisch%20und%20dynamisch.pdf Folien])
+* Mathematische Konstanten und Funktionen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/26%20Mathematische%20Funktionen.pdf Folien])
+* Mehrfach-Verzweigung mit switch/case ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/25%20Switch-Anweisung.pdf Folien])
+
+19.12.14:
+* Die Vorlesung geht an ADS zurück (es findet ADS anstelle von GDI statt).
+* Die Übung findet statt, es gibt aber keine Betreuung.
+
+18.12.14: Vorlesung
+* Polymorphismus ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/53%20Polymorphismus.pdf Folien])
+
+12.12.14: Vorlesung
+* Vererbung, toString(): Fuhrpark-Beispiel (Rest)
+* Vererbung von Konstruktoren ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/52%20Vererbung%20von%20Konstruktoren.pdf Folien])
+
+11.12.14: Vorlesung
+* Vererbung: Fuhrpark-Beispiel ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/51%20Fuhrpark-Beispiel.pdf Folien])
+
+9. (letztes) Übungsblatt
+* Aufgabenstellung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09.pdf PDF]; ''Methodenname im Beispielprogramm korrigiert'')
+* Interfaces [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09%20Apartment.java Apartment] (''Kommentar zur Methode "firstOccupiedDayAfter" geändert/korrigiert''), [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09%20Matcher.java Matcher]
+* Hilfsklassen [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09%20Date.java Date], [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09%20Match.java Match]
+* Testdatei [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09%20apartments.txt]
+* erste Testfälle [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09%20Matcher1stTest.java], [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09%20Apartment1stTest.java]
+* GUI-Klassen: [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09%20MainFrame.java MainFrame], [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U09%20MainFrameController.java MainFrameController]
+* Abgabe: 8.1.15 vor Beginn der Vorlesung (9:45 Uhr)
+** Die Gruppen 1-1, 1-2 und 1-3 schicken bitte ihre Java-Dateien per E-Mail an [mailto:philip.quintus@gmail.com?subject=GDI&nbsp;9&nbsp;von&nbsp;Gruppe&nbsp; philip.quintus@gmail.com mit Subject "GDI 9 von Gruppe ..."]
+** Die Gruppen 1-4, 1-6 und 1-8 schicken bitte ihre Java-Dateien per E-Mail an [mailto:p.knauber@hs-mannheim.de?subject=GDI&nbsp;9&nbsp;von&nbsp;Gruppe&nbsp; p.knauber@hs-mannheim.de mit Subject "GDI 9 von Gruppe ..."]
+** Die Gruppen 1-9, 1-10 und 1-11 schicken bitte ihre Java-Dateien per E-Mail an [mailto:cody.hamilton@gmail.com?subject=GDI&nbsp;9&nbsp;von&nbsp;Gruppe&nbsp; cody.hamilton@gmail.com mit Subject "GDI 9 von Gruppe ..."]
+*** Geben Sie im Subject Ihre Gruppennummer an!
+*** Schicken Sie die E-Mail rechtzeitig los!
+
+5.12.14: Vorlesung
+* Erweiterung (Rest)
+
+4.12.14: Vorlesung
+* Erweiterung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/50%20Erweiterung%20am%20Beispiel.pdf Folien])
+
+'''8. Übungsblatt'''
+* Aufgabenstellung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U08.pdf PDF])
+* Interface [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U08%20Labyrinth.java Labyrinth]
+* erster Testfall: [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U08%20Labyrinth1stTest.java Testklasse], [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U08%20Position.java Klasse Position], [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U08%20labyrinth1.txt Testlabyrinth]
+* '''Abgabe: 11.12. vor Beginn der Vorlesung (9:45 Uhr)'''
+** Die Gruppen 1-1, 1-2 und 1-3 schicken bitte ihre Java-Dateien per E-Mail an [mailto:p.knauber@hs-mannheim.de?subject=GDI&nbsp;8&nbsp;von&nbsp;Gruppe&nbsp; p.knauber@hs-mannheim.de mit Subject "GDI 8 von Gruppe ..."]
+** Die Gruppen 1-4, 1-6 und 1-8 schicken bitte ihre Java-Dateien per E-Mail an [mailto:cody.hamilton@gmail.com?subject=GDI&nbsp;8&nbsp;von&nbsp;Gruppe&nbsp; cody.hamilton@gmail.com mit Subject "GDI 8 von Gruppe ..."]
+** Die Gruppen 1-9, 1-10 und 1-11 schicken bitte ihre Java-Dateien per E-Mail an [mailto:philip.quintus@gmail.com?subject=GDI&nbsp;8&nbsp;von&nbsp;Gruppe&nbsp; philip.quintus@gmail.com mit Subject "GDI 8 von Gruppe ..."]
+*** Geben Sie im Subject Ihre Gruppennummer an!
+*** Schicken Sie die E-Mail rechtzeitig los!
+
+28.11.14: Vorlesung
+* Rest-Parameter ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/39%20Rest-Parameter.pdf PDF])
+* Restliche Ganzzahl-Typen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/11b%20Restliche%20Ganzzahl-Typen.pdf PDF])
+* Gleitkommazahlen und Casts ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/19%20Gleitkommazahlen%20und%20Casts.pdf PDF])
+
+27.11.14: Vorlesung
+* Arbeiten mit Objekten: Rest
+* Restliche Schleifen: Iteratoren
+* Aufzählungstypen: Rest ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/46b%20Aufzaehlungstypen.pdf PDF])
+* Geschachtelte Arrays ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/38%20Geschachtelte%20Arrays.pdf PDF])
+
+21.11.14: Vorlesung
+* Speicherverwaltung von Objekten (Rest)
+* Arbeiten mit Objekten ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/45%20Arbeiten%20mit%20Objekten.pdf Folien])
+* Aufzählungstypen, Teil 1 ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/46a%20Aufzaehlungstypen.pdf Folien])
+
+20.11.14: Vorlesung
+* Begriffe und Beispiele (Rest)
+* Nachtrag zur Klasse String ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/13b%20String%20vs.%20ArrayOfChar.pdf Folien])
+* Speicherverwaltung von Objekten ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/44%20Speicherverwaltung.pdf Folien])
+
+7. Übungsblatt
+* Aufgabenstellung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U07.pdf PDF])
+* Interface [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U7%20BaconKodierer.java BaconKodierer]
+* erster Testfall: [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U7%20BaconKodierer1stTest.java Testklasse]
+* Abgabe: 4.12. vor Beginn der Vorlesung (9:45 Uhr)
+** Die Gruppen 1-1, 1-2 und 1-3 schicken bitte ihre Java-Dateien per E-Mail an [mailto:cody.hamilton@gmail.com?subject=GDI&nbsp;7&nbsp;von&nbsp;Gruppe&nbsp; cody.hamilton@gmail.com mit Subject "GDI 7 von Gruppe ..."]
+** Die Gruppen 1-4, 1-5, 1-6 und 1-8 schicken bitte ihre Java-Dateien per E-Mail an [mailto:philip.quintus@gmail.com?subject=GDI&nbsp;7&nbsp;von&nbsp;Gruppe&nbsp; philip.quintus@gmail.com mit Subject "GDI 7 von Gruppe ..."]
+** Die Gruppen 1-9, 1-10, 1-11 und 1-12 schicken bitte ihre Java-Dateien per E-Mail an [mailto:p.knauber@hs-mannheim.de?subject=GDI&nbsp;7&nbsp;von&nbsp;Gruppe&nbsp; p.knauber@hs-mannheim.de mit Subject "GDI 7 von Gruppe ..."]
+*** Geben Sie im Subject Ihre Gruppennummer an!
+*** Schicken Sie die E-Mail rechtzeitig los!
+
+14.11.14: Vorlesung
+* Begriffe und Beispiele ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/43%20Begriffe%20und%20Beispiele.pdf Folien])
+
+13.11.14: Vorlesung
+* Tutoren-Vortrag: Debugging
+* Klassen implementieren Interfaces ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/41%20Klassen%20implementieren%20Interfaces.pdf Folien])
+* Klassen und Objekte ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/42%20Klassen%20und%20Objekte.pdf Folien])
+
+6. Übungsblatt
+* Aufgabenstellung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U06.pdf PDF])
+* Interface [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U06%20StringToolkit.java StringToolkit]
+* erster Testfall: [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U06%20StringToolkit1stTest.java Testklasse]
+* Der Testfall wurde ergänzt, um eine Nachfrage eindeutig zu klären.
+* Abgabe: 20.11. vor Beginn der Vorlesung (9:45 Uhr)
+** Die Gruppen 1-1, 1-2 und 1-3 schicken bitte ihre Java-Dateien per E-Mail an [mailto:philip.quintus@gmail.com?subject=GDI&nbsp;6&nbsp;von&nbsp;Gruppe&nbsp; philip.quintus@gmail.com mit Subject "GDI 6 von Gruppe ..."]
+** Die Gruppen 1-4, 1-5, 1-6 und 1-8 schicken bitte ihre Java-Dateien per E-Mail an [mailto:p.knauber@hs-mannheim.de?subject=GDI&nbsp;6&nbsp;von&nbsp;Gruppe&nbsp; p.knauber@hs-mannheim.de mit Subject "GDI 6 von Gruppe ..."]
+** Die Gruppen 1-9, 1-10, 1-11 und 1-12 schicken bitte ihre Java-Dateien per E-Mail an [mailto:cody.hamilton@gmail.com?subject=GDI&nbsp;6&nbsp;von&nbsp;Gruppe&nbsp; cody.hamilton@gmail.com mit Subject "GDI 6 von Gruppe ..."]
+*** Geben Sie im Subject Ihre Gruppennummer an!
+*** Schicken Sie die E-Mail rechtzeitig los!
+
+7.11.14: Vorlesung
+* Interfaces - Motivation ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/40%20Interfaces%20-%20Motivation.pdf Folien])
+* JavaDoc ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/24b%20Javadoc.pdf Folien])
+
+6.11.14: Vorlesung
+* Ein- und Ausgabe von/auf Dateien ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/38%20Dateien.pdf Folien])
+* Weitere Schleifen in Java ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/22b%20Weitere%20Schleifen.pdf Folien])
+
+5. Übungsblatt
+* Aufgabenstellung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U05.pdf PDF])
+** Bitte nennen Sie Ihre Klasse 'LinesOfCode', wie im Testcode angegeben (nicht 'LinesOfCodeCounter')!
+* erster Testfall: [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U05%20LinesOfCode1stTest.java Klasse 1]
+* Abgabe: 13.11. vor Beginn der Vorlesung (9:45 Uhr)
+** Die Gruppen 1-1, 1-2 und 1-3 schicken bitte ihre Java-Dateien per E-Mail an [mailto:p.knauber@hs-mannheim.de?subject=GDI&nbsp;5&nbsp;von&nbsp;Gruppe&nbsp; p.knauber@hs-mannheim.de mit Subject "GDI 5 von Gruppe ..."]
+** Die Gruppen 1-4, 1-5, 1-6 und 1-8 schicken bitte ihre Java-Dateien per E-Mail an [mailto:cody.hamilton@gmail.com?subject=GDI&nbsp;5&nbsp;von&nbsp;Gruppe&nbsp; cody.hamilton@gmail.com mit Subject "GDI 5 von Gruppe ..."]
+** Die Gruppen 1-9, 1-10, 1-11 und 1-12 schicken bitte ihre Java-Dateien per E-Mail an [mailto:philip.quintus@gmail.com?subject=GDI&nbsp;5&nbsp;von&nbsp;Gruppe&nbsp; philip.quintus@gmail.com mit Subject "GDI 5 von Gruppe ..."]
+*** Geben Sie im Subject Ihre Gruppennummer an!
+*** Schicken Sie die E-Mail rechtzeitig los!
+
+31.10.14: Vorlesung
+* Prozeduren ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/36%20Prozeduren.pdf Folien])
+* Rekursion in Java ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/37%20Rekursive%20Methoden.pdf Folien])
+
+30.10.14: Vorlesung
+* Funktionen und Arrays ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/34%20Funktionen%20und%20Arrays.pdf Folien])
+* Eigene Exceptions ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/35%20Eigene%20Exceptions.pdf Folien])
+
+29.10.14: Vorlesung anstelle des Labors zur Vorlesung [[ADS IB im WS2014/2015|ADS]]
+* Zeit: 12:00 bis 13:30 Uhr
+* Raum: H606
+* Eindimensionale Arrays (Rest)
+* Array-Verwaltung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/33%20ArrayVerwaltung.pdf Folien])
+
+24.10.14: Vorlesung
+* JUnit ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/31%20Motivation%20fuer%20JUnit.pdf Folien])
+* Eindimensionale Arrays ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/32%20EindimensionaleArrays.pdf Folien])
+
+23.10.14: Vorlesung
+* Funktionen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/30%20Funktionen.pdf Folien])
+
+4. Übungsblatt
+* Aufgabenstellung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U04.pdf PDF])
+* JUnit ins Projekt einbinden ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/Screencasts/JUnit4_ins_Projekt_einbinden/JUnit4_ins_Projekt_einbinden.htm Screencast])
+* JUnit-Test starten ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/Screencasts/JUnit-Test_ausfuehren/JUnit-Test_ausfuehren.htm Screencast])
+* erste Testfälle: [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U04%20ISBNToolkit1stTest.java Klasse 1], [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U04%20Conversion1stTest.java Klasse 2], [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U04%20StringSplitting1stTest.java Klasse 3]
+* Abgabe: 6.11. vor Beginn der Vorlesung (9:45 Uhr)
+** Alle Gruppen 1 schicken bitte ihre Lösung als zip-Datei per E-Mail an [mailto:p.knauber@hs-mannheim.de?cc=philip.quintus@gmail.com;cody.hamilton@gmail.com&subject=GDI&nbsp;4&nbsp;von&nbsp;Gruppe&nbsp; p.knauber@hs-mannheim.de mit Subject "GDI 4 von Gruppe ..."]
+*** Geben Sie im Subject Ihre Gruppennummer an!
+*** Schicken Sie die E-Mail rechtzeitig los!
+* Bearbeitungszeit: 2 Wochen
+
+17.10.14: Vorlesung
+* Abweisende Schleifen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/22a%20Abweisende%20Schleifen.pdf Folien])
+* Eingaben von der Konsole ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/23%20DatenVonDerKonsole.pdf Folien])
+* Kommentare ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/24a%20Kommentare.pdf Folien])
+
+16.10.14: Vorlesung
+* Fragen zur Eclipse-Bedienung?
+* Rechnen mit Boole'schen Werten ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/17%20Rechnen%20mit%20Boolean.pdf Folien])
+* Bedingungen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/20%20If-Anweisungen.pdf Folien])
+* Leere Anweisungen und Anweisungsfolgen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/21%20Anweisungsfolgen.pdf Folien])
+
+3. Übungsblatt
+* Aufgabenstellung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U03.pdf PDF])
+* Abgabe: 23.10. vor Beginn der Vorlesung (9:45 Uhr)
+
+10.10.14: Vorlesung: Ab sofort findet die Freitagsvorlesung GDI in Raum L113 statt!
+* Struktur und Ausführung von Java-Programmen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/16%20Java-Programmstruktur%20und%20Ausfuehrung.pdf Folien])
+* Operator-Vorrang-Regelung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/18%20Operator-Vorrang.pdf Folien])
+
+9.10.14: Vorlesung: Ab sofort findet die Donnerstagsvorlesung GDI in Raum H0806 statt!
+* Zeichen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/12%20Zeichen.pdf Folien])
+* Strings ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/13a%20Strings.pdf Folien])
+* Variablen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/14%20Variablen.pdf Folien])
+* Zuweisungen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/15%20Zuweisungen.pdf Folien])
+
+2. Übungsblatt
+* Aufgabenstellung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U02.pdf PDF])
+* Eclipse-Anleitung als Screencasts:
+** [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/Screencasts/MakeItSimple_speichern/MakeItSimple_speichern.htm Hilfsbibliothek speichern]
+** [http://services.informatik.hs-mannheim.de/~knauber/B-GDI/Screencasts/Projekt_mit_MakeItSimple_anlegen/Projekt_mit_MakeItSimple_anlegen.htm Java-Projekt mit Hilfsbibliothek in Eclipse anlegen]
+* Eclipse-Anleitung in Folienform ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/29%20Eclipse-Demo.pdf PDF])
+* Abgabe: 16.10. vor Beginn der Vorlesung (9:45 Uhr)
+
+2.10.14: Vorlesung
+* Ganze Zahlen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/11a%20Ganze%20Zahlen.pdf Folien])
+
+26.9.14: 1. Übung
+
+26.9.14: 2. Vorlesung
+* Informatik-Grundlagen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/03%20InformatikGrundlagen.pdf Folien])
+* Compiler und Interpreter ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/06%20Compiler+Interpreter.pdf Folien])
+* Elemente höherer Programmiersprachen ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/10%20Sprachelemente.pdf Folien])
+
+25.9.14: 1. Vorlesung
+* Organisatorisches ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/01%20Organisation.pdf Folien])
+* Eintragen in die Übungsgruppen
+* 1. Übungsblatt
+** Aufgabenstellung ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U01.pdf PDF])
+** Begriffe in groß ([http://services.informatik.hs-mannheim.de/~knauber/B-GDI/U01%20Begriffsfolie.pdf PDF])
+** Abgabe: 9.10. vor Beginn der Vorlesung (9:45 Uhr)

@@ -1,0 +1,25 @@
+5
+Haus Hamburg
+Gepflegtes Haus mit behaglich eingerichter Wohnung.
+2
+24  6-5  7
+20  7-1  8
+Haus Seebär
+Zentral gelegenes Haus am Weg zum Strand und dennoch ruhig.
+2
+1  7-12  7
+22  7-1  8
+Huus Binder
+Das Ferienhaus für die ganze Familie.
+2
+24  6-5  7
+20  7-1  8
+Picks Logierhaus
+Frisische Gemütlichkeit bieten wir Ihnen im gepflegten historischen Stammhaus.
+0
+Huus Utkiek
+Wir vermieten eine idyllische Doppelhaushälfte in ruhiger Strand- und Ortskernnähe, mit Veranda und Garten.
+3
+24  6-1  7
+11  7-12  7
+22  7-1  8
